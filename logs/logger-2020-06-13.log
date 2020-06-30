@@ -1,0 +1,2 @@
+2020-06-13 14:28:16,366 - INFO - basepage.py - sendKeys - 47 - Input <page object> Into [('id', 'kw')]
+2020-06-13 14:28:16,482 - INFO - basepage.py - click - 62 - Click Element [('id', 'su')]
